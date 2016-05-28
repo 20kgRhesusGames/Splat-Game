@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 40f153fbee567a04fa34fcb178d2aa7c
+timeCreated: 1462843121
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Splat!Drip_0
+    21300002: Splat!Drip_1
+    21300004: Splat!Drip_2
+    21300006: Splat!Drip_3
+    21300008: Splat!Drip_4
+    21300010: Splat!Drip_5
+    21300012: Splat!Drip_6
+    21300014: Splat!Drip_7
+    21300016: Splat!Drip_8
+    21300018: Splat!Drip_9
+    21300020: Splat!Drip_10
+    21300022: Splat!Drip_11
+    21300024: Splat!Drip_12
+    21300026: Splat!Drip_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Splat!Drip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 107.2206}
+        - {x: -73.5, y: 72.2206}
+        - {x: -73.5, y: -7.7794037}
+        - {x: -68.5, y: -12.779404}
+        - {x: -42.5, y: -39.779404}
+        - {x: 73.5, y: -39.779404}
+        - {x: 73.5, y: 107.2206}
+    - name: Splat!Drip_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.457443, y: 107.2206}
+        - {x: -73.45744, y: 92.2206}
+        - {x: -73.45744, y: -11.779404}
+        - {x: -56.457443, y: -39.779404}
+        - {x: 73.54256, y: -39.779404}
+        - {x: 73.54256, y: 107.2206}
+    - name: Splat!Drip_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.414886, y: 107.2206}
+        - {x: -73.41489, y: 68.2206}
+        - {x: -73.41489, y: 0.22059631}
+        - {x: -33.414886, y: -53.779404}
+        - {x: 30.585114, y: -53.779404}
+        - {x: 52.585114, y: -47.779404}
+        - {x: 73.58511, y: 13.220596}
+        - {x: 73.58511, y: 92.2206}
+        - {x: 44.585114, y: 107.2206}
+    - name: Splat!Drip_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.372345, y: -7.7794037}
+        - {x: -60.372345, y: -22.779404}
+        - {x: -36.372345, y: -63.779404}
+        - {x: 39.627655, y: -63.779404}
+        - {x: 73.627655, y: -42.779404}
+        - {x: 73.627655, y: 107.2206}
+        - {x: -56.372345, y: 107.2206}
+        - {x: -73.372345, y: 75.2206}
+    - name: Splat!Drip_4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.670227, y: 104.2206}
+        - {x: 37.670227, y: 107.2206}
+        - {x: -48.329773, y: 107.2206}
+        - {x: -73.32977, y: 92.2206}
+        - {x: -73.32977, y: -3.7794037}
+        - {x: -44.329773, y: -77.7794}
+        - {x: 41.670227, y: -77.7794}
+        - {x: 61.670227, y: -70.7794}
+        - {x: 72.67023, y: -7.7794037}
+        - {x: 73.67023, y: -0.7794037}
+        - {x: 73.67023, y: 70.2206}
+    - name: Splat!Drip_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.28723, y: 107.2206}
+        - {x: -73.28723, y: -43.779404}
+        - {x: -42.28723, y: -86.7794}
+        - {x: 22.712769, y: -86.7794}
+        - {x: 55.71277, y: -82.7794}
+        - {x: 73.71277, y: -34.779404}
+        - {x: 73.71277, y: 107.2206}
+    - name: Splat!Drip_6
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 448
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.75531, y: -78.7794}
+        - {x: 2.75531, y: -85.7794}
+        - {x: 16.75531, y: -92.7794}
+        - {x: 20.75531, y: -85.7794}
+        - {x: 23.75531, y: -80.7794}
+        - {x: 23.75531, y: -69.7794}
+        - {x: 18.75531, y: -53.779404}
+        - {x: 14.75531, y: -43.779404}
+        - {x: 30.75531, y: -61.779404}
+        - {x: 31.75531, y: -89.7794}
+        - {x: 39.75531, y: -97.7794}
+        - {x: 71.75531, y: -85.7794}
+        - {x: 73.75531, y: -67.7794}
+        - {x: 73.75531, y: 105.2206}
+        - {x: 70.75531, y: 107.2206}
+        - {x: -41.24469, y: 107.2206}
+        - {x: -73.24469, y: 90.2206}
+        - {x: -73.24469, y: -53.779404}
+        - {x: -49.24469, y: -106.7794}
+        - {x: -14.24469, y: -106.7794}
+        - {x: -1.24469, y: -98.7794}
+        - {x: 1.75531, y: -56.779404}
+        - {x: 1.75531, y: -40.779404}
+    - name: Splat!Drip_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 106.94121}
+        - {x: -73.5, y: 83.94121}
+        - {x: -73.5, y: -29.058792}
+        - {x: -54.5, y: -51.058792}
+        - {x: -37.5, y: -107.05879}
+        - {x: 52.5, y: -107.05879}
+        - {x: 60.5, y: -104.05879}
+        - {x: 73.5, y: -64.05879}
+        - {x: 73.5, y: 91.94121}
+        - {x: 70.5, y: 106.94121}
+    - name: Splat!Drip_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.542557, y: 106.94121}
+        - {x: -66.45744, y: 106.94121}
+        - {x: -73.45744, y: 80.94121}
+        - {x: -73.45744, y: -17.058792}
+        - {x: -38.457443, y: -79.05879}
+        - {x: -27.457443, y: -88.05879}
+        - {x: 28.542557, y: -88.05879}
+        - {x: 51.542557, y: -83.05879}
+        - {x: 73.54256, y: -7.058792}
+        - {x: 73.54256, y: 70.94121}
+    - name: Splat!Drip_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.585114, y: 106.94121}
+        - {x: -36.414886, y: 106.94121}
+        - {x: -61.414886, y: 87.94121}
+        - {x: -73.41489, y: 66.94121}
+        - {x: -73.41489, y: -26.058792}
+        - {x: -26.414886, y: -75.05879}
+        - {x: 51.585114, y: -75.05879}
+        - {x: 54.585114, y: -74.05879}
+        - {x: 73.58511, y: -21.058792}
+        - {x: 73.58511, y: 90.94121}
+    - name: Splat!Drip_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.627655, y: 92.94121}
+        - {x: 47.627655, y: 106.94121}
+        - {x: -46.372345, y: 106.94121}
+        - {x: -73.372345, y: 77.94121}
+        - {x: -73.372345, y: -16.058792}
+        - {x: -25.372345, y: -66.05879}
+        - {x: 40.627655, y: -66.05879}
+        - {x: 49.627655, y: -61.058792}
+        - {x: 73.627655, y: -9.058792}
+        - {x: 73.627655, y: 80.94121}
+    - name: Splat!Drip_11
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.329773, y: 106.94121}
+        - {x: -73.32977, y: 79.94121}
+        - {x: -73.32977, y: 1.9412079}
+        - {x: -31.329773, y: -56.058792}
+        - {x: 55.670227, y: -56.058792}
+        - {x: 73.67023, y: -18.058792}
+        - {x: 73.67023, y: 81.94121}
+        - {x: 38.670227, y: 106.94121}
+    - name: Splat!Drip_12
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.71277, y: 106.94121}
+        - {x: -40.28723, y: 106.94121}
+        - {x: -73.28723, y: 64.94121}
+        - {x: -73.28723, y: 5.941208}
+        - {x: -61.28723, y: -27.058792}
+        - {x: -27.287231, y: -42.058792}
+        - {x: 64.71277, y: -42.058792}
+        - {x: 73.71277, y: -6.058792}
+        - {x: 73.71277, y: 83.94121}
+        - {x: 53.71277, y: 105.94121}
+    - name: Splat!Drip_13
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3
+        width: 304
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.24469, y: 106.94121}
+        - {x: -73.24469, y: 100.94121}
+        - {x: -73.24469, y: -36.058792}
+        - {x: -61.24469, y: -42.058792}
+        - {x: 35.75531, y: -42.058792}
+        - {x: 73.75531, y: -22.058792}
+        - {x: 73.75531, y: 72.94121}
+        - {x: 44.75531, y: 106.94121}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

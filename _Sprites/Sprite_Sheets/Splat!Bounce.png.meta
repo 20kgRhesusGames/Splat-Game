@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 79d7b09341149804b827cafffffef08c
+timeCreated: 1462843374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Splat!Bounce_0
+    21300002: Splat!Bounce_1
+    21300004: Splat!Bounce_2
+    21300006: Splat!Bounce_3
+    21300008: Splat!Bounce_4
+    21300010: Splat!Bounce_5
+    21300012: Splat!Bounce_6
+    21300014: Splat!Bounce_7
+    21300016: Splat!Bounce_8
+    21300018: Splat!Bounce_9
+    21300020: Splat!Bounce_10
+    21300022: Splat!Bounce_11
+    21300024: Splat!Bounce_12
+    21300026: Splat!Bounce_13
+    21300028: Splat!Bounce_14
+    21300030: Splat!Bounce_15
+    21300032: Splat!Bounce_16
+    21300034: Splat!Bounce_17
+    21300036: Splat!Bounce_18
+    21300038: Splat!Bounce_19
+    21300040: Splat!Bounce_20
+    21300042: Splat!Bounce_21
+    21300044: Splat!Bounce_22
+    21300046: Splat!Bounce_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Splat!Bounce_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1522
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 86.020325}
+        - {x: -53.5, y: 84.020325}
+        - {x: -81.5, y: 74.020325}
+        - {x: -85.5, y: 59.020325}
+        - {x: -85.5, y: -53.979675}
+        - {x: -41.5, y: -84.979675}
+        - {x: 36.5, y: -84.979675}
+        - {x: 85.5, y: -63.979675}
+        - {x: 85.5, y: 65.020325}
+        - {x: 53.5, y: 86.020325}
+    - name: Splat!Bounce_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1522
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.020264, y: 83.020325}
+        - {x: -85.02026, y: 33.020325}
+        - {x: -85.02026, y: -36.979675}
+        - {x: -52.020264, y: -84.979675}
+        - {x: 52.979736, y: -84.979675}
+        - {x: 85.97974, y: -41.979675}
+        - {x: 85.97974, y: 38.020325}
+        - {x: 60.979736, y: 83.020325}
+    - name: Splat!Bounce_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1522
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.959473, y: 78.020325}
+        - {x: -31.040527, y: 78.020325}
+        - {x: -78.04053, y: 61.020325}
+        - {x: -85.04053, y: 31.020325}
+        - {x: -85.04053, y: -45.979675}
+        - {x: -40.040527, y: -84.979675}
+        - {x: 39.959473, y: -84.979675}
+        - {x: 42.959473, y: -83.979675}
+        - {x: 80.95947, y: -72.979675}
+        - {x: 86.95947, y: -48.979675}
+        - {x: 86.95947, y: 58.020325}
+    - name: Splat!Bounce_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1522
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.06076, y: 71.020325}
+        - {x: -85.06076, y: 39.020325}
+        - {x: -85.06076, y: -70.979675}
+        - {x: -52.06076, y: -83.979675}
+        - {x: 50.93924, y: -83.979675}
+        - {x: 85.93924, y: -52.979675}
+        - {x: 85.93924, y: 57.020325}
+        - {x: 31.93924, y: 71.020325}
+    - name: Splat!Bounce_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 63.540527}
+        - {x: -57.5, y: 61.540527}
+        - {x: -85.5, y: 32.540527}
+        - {x: -85.5, y: -56.459473}
+        - {x: -56.5, y: -85.45947}
+        - {x: 43.5, y: -85.45947}
+        - {x: 85.5, y: -72.45947}
+        - {x: 85.5, y: 33.540527}
+        - {x: 57.5, y: 63.540527}
+    - name: Splat!Bounce_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1218
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.020264, y: 57.540527}
+        - {x: -85.02026, y: 18.540527}
+        - {x: -85.02026, y: -57.459473}
+        - {x: -44.020264, y: -85.45947}
+        - {x: 76.97974, y: -85.45947}
+        - {x: 85.97974, y: -58.459473}
+        - {x: 85.97974, y: 47.540527}
+        - {x: 59.979736, y: 57.540527}
+    - name: Splat!Bounce_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1218
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.040527, y: 52.540527}
+        - {x: -85.04053, y: 34.540527}
+        - {x: -85.04053, y: -85.45947}
+        - {x: 86.95947, y: -85.45947}
+        - {x: 86.95947, y: 22.540527}
+        - {x: 77.95947, y: 52.540527}
+    - name: Splat!Bounce_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1218
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.06076, y: 46.540527}
+        - {x: -85.06076, y: 30.540527}
+        - {x: -85.06076, y: -54.459473}
+        - {x: -77.06076, y: -78.45947}
+        - {x: -54.06076, y: -85.45947}
+        - {x: 79.93924, y: -85.45947}
+        - {x: 85.93924, y: -70.45947}
+        - {x: 85.93924, y: 28.540527}
+        - {x: 39.93924, y: 46.540527}
+    - name: Splat!Bounce_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.5, y: 40.56079}
+        - {x: -85.5, y: 37.56079}
+        - {x: -85.5, y: -53.43921}
+        - {x: -67.5, y: -85.43921}
+        - {x: 80.5, y: -85.43921}
+        - {x: 85.5, y: -64.43921}
+        - {x: 85.5, y: 40.56079}
+    - name: Splat!Bounce_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 914
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.020264, y: 35.56079}
+        - {x: -85.02026, y: 7.560791}
+        - {x: -85.02026, y: -58.43921}
+        - {x: -84.02026, y: -75.43921}
+        - {x: -48.020264, y: -85.43921}
+        - {x: 66.97974, y: -85.43921}
+        - {x: 85.97974, y: -64.43921}
+        - {x: 85.97974, y: 24.560791}
+        - {x: 51.979736, y: 35.56079}
+    - name: Splat!Bounce_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 914
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.040527, y: 29.560791}
+        - {x: -85.04053, y: -5.439209}
+        - {x: -85.04053, y: -85.43921}
+        - {x: 86.95947, y: -85.43921}
+        - {x: 86.95947, y: 29.560791}
+    - name: Splat!Bounce_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 914
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.06076, y: 24.560791}
+        - {x: -85.06076, y: 13.560791}
+        - {x: -85.06076, y: -65.43921}
+        - {x: -60.06076, y: -85.43921}
+        - {x: 61.93924, y: -85.43921}
+        - {x: 85.93924, y: -74.43921}
+        - {x: 85.93924, y: 4.560791}
+        - {x: 70.93924, y: 24.560791}
+    - name: Splat!Bounce_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: 23.581055}
+        - {x: -65.5, y: 23.581055}
+        - {x: -85.5, y: -0.4189453}
+        - {x: -85.5, y: -81.418945}
+        - {x: -65.5, y: -85.418945}
+        - {x: 67.5, y: -85.418945}
+        - {x: 77.5, y: -80.418945}
+        - {x: 85.5, y: -57.418945}
+        - {x: 85.5, y: 6.5810547}
+    - name: Splat!Bounce_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 610
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.02026, y: 28.581055}
+        - {x: -85.02026, y: 2.5810547}
+        - {x: -85.02026, y: -57.418945}
+        - {x: -49.020264, y: -85.418945}
+        - {x: 48.979736, y: -85.418945}
+        - {x: 81.97974, y: -83.418945}
+        - {x: 85.97974, y: -75.418945}
+        - {x: 85.97974, y: 21.581055}
+        - {x: 58.979736, y: 28.581055}
+    - name: Splat!Bounce_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 610
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.04053, y: 34.581055}
+        - {x: -85.04053, y: -74.418945}
+        - {x: -57.040527, y: -85.418945}
+        - {x: 73.95947, y: -85.418945}
+        - {x: 86.95947, y: -66.418945}
+        - {x: 86.95947, y: 27.581055}
+        - {x: 85.95947, y: 34.581055}
+    - name: Splat!Bounce_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 610
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.93924, y: 39.581055}
+        - {x: -28.06076, y: 39.581055}
+        - {x: -81.06076, y: 21.581055}
+        - {x: -85.06076, y: 4.5810547}
+        - {x: -85.06076, y: -69.418945}
+        - {x: -71.06076, y: -85.418945}
+        - {x: 65.93924, y: -85.418945}
+        - {x: 85.93924, y: -79.418945}
+        - {x: 85.93924, y: 16.581055}
+        - {x: 60.93924, y: 30.581055}
+    - name: Splat!Bounce_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.5, y: 42.60132}
+        - {x: 38.5, y: 45.60132}
+        - {x: -58.5, y: 45.60132}
+        - {x: -85.5, y: 9.601318}
+        - {x: -85.5, y: -51.39868}
+        - {x: -82.5, y: -61.39868}
+        - {x: -55.5, y: -85.39868}
+        - {x: 54.5, y: -85.39868}
+        - {x: 84.5, y: -59.39868}
+        - {x: 85.5, y: -53.39868}
+        - {x: 85.5, y: 10.601318}
+      - - {x: -14.5, y: 86.60132}
+        - {x: -13.5, y: 83.60132}
+        - {x: 16.5, y: 83.60132}
+        - {x: 18.5, y: 85.60132}
+        - {x: 18.5, y: 86.60132}
+    - name: Splat!Bounce_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 306
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.97974, y: 51.60132}
+        - {x: -52.020264, y: 51.60132}
+        - {x: -85.02026, y: 44.60132}
+        - {x: -85.02026, y: -79.39868}
+        - {x: -73.02026, y: -85.39868}
+        - {x: 75.97974, y: -85.39868}
+        - {x: 85.97974, y: -58.39868}
+        - {x: 85.97974, y: 41.60132}
+      - - {x: -13.020264, y: 86.60132}
+        - {x: -12.020264, y: 83.60132}
+        - {x: 16.979736, y: 83.60132}
+        - {x: 18.979736, y: 85.60132}
+        - {x: 18.979736, y: 86.60132}
+    - name: Splat!Bounce_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 306
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.04053, y: 56.60132}
+        - {x: -85.04053, y: 19.601318}
+        - {x: -85.04053, y: -73.39868}
+        - {x: -68.04053, y: -85.39868}
+        - {x: 51.959473, y: -85.39868}
+        - {x: 86.95947, y: -69.39868}
+        - {x: 86.95947, y: 31.601318}
+        - {x: 50.959473, y: 56.60132}
+      - - {x: -12.040527, y: 86.60132}
+        - {x: -11.040527, y: 83.60132}
+        - {x: 16.959473, y: 83.60132}
+        - {x: 18.959473, y: 85.60132}
+        - {x: 18.959473, y: 86.60132}
+    - name: Splat!Bounce_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 306
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.06076, y: 62.60132}
+        - {x: -85.06076, y: 39.60132}
+        - {x: -85.06076, y: -49.39868}
+        - {x: -69.06076, y: -85.39868}
+        - {x: 49.93924, y: -85.39868}
+        - {x: 85.93924, y: -54.39868}
+        - {x: 85.93924, y: 33.60132}
+        - {x: 39.93924, y: 62.60132}
+      - - {x: -12.0607605, y: 86.60132}
+        - {x: -11.0607605, y: 83.60132}
+        - {x: 16.93924, y: 83.60132}
+        - {x: 18.93924, y: 85.60132}
+        - {x: 18.93924, y: 86.60132}
+    - name: Splat!Bounce_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 66.621574}
+        - {x: -85.5, y: 40.621574}
+        - {x: -85.5, y: -50.378426}
+        - {x: -74.5, y: -85.378426}
+        - {x: 58.5, y: -85.378426}
+        - {x: 85.5, y: -66.378426}
+        - {x: 85.5, y: 33.621574}
+        - {x: 72.5, y: 66.621574}
+      - - {x: -15.5, y: 85.621574}
+        - {x: -14.5, y: 82.621574}
+        - {x: 14.5, y: 82.621574}
+        - {x: 16.5, y: 84.621574}
+        - {x: 16.5, y: 85.621574}
+    - name: Splat!Bounce_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.979736, y: 74.621574}
+        - {x: -71.02026, y: 74.621574}
+        - {x: -85.02026, y: 32.621574}
+        - {x: -85.02026, y: -59.378426}
+        - {x: -48.020264, y: -85.378426}
+        - {x: 57.979736, y: -85.378426}
+        - {x: 85.97974, y: -43.378426}
+        - {x: 85.97974, y: 40.621574}
+        - {x: 83.97974, y: 50.621574}
+      - - {x: -14.020264, y: 85.621574}
+        - {x: -13.020264, y: 82.621574}
+        - {x: 14.979736, y: 82.621574}
+        - {x: 16.979736, y: 84.621574}
+        - {x: 16.979736, y: 85.621574}
+    - name: Splat!Bounce_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.040527, y: 79.621574}
+        - {x: -63.040527, y: 78.621574}
+        - {x: -82.04053, y: 29.621574}
+        - {x: -82.04053, y: -50.378426}
+        - {x: -61.040527, y: -79.378426}
+        - {x: -40.040527, y: -85.378426}
+        - {x: 51.959473, y: -85.378426}
+        - {x: 86.95947, y: -52.378426}
+        - {x: 86.95947, y: 40.621574}
+        - {x: 52.959473, y: 79.621574}
+      - - {x: -10.040527, y: 85.621574}
+        - {x: -9.040527, y: 82.621574}
+        - {x: 18.959473, y: 82.621574}
+        - {x: 20.959473, y: 84.621574}
+        - {x: 20.959473, y: 85.621574}
+    - name: Splat!Bounce_23
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.93924, y: 85.621574}
+        - {x: -30.06076, y: 85.621574}
+        - {x: -85.06076, y: 54.621574}
+        - {x: -85.06076, y: -61.378426}
+        - {x: -44.06076, y: -85.378426}
+        - {x: 56.93924, y: -85.378426}
+        - {x: 85.93924, y: -38.378426}
+        - {x: 85.93924, y: 41.621574}
+        - {x: 59.93924, y: 76.621574}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
