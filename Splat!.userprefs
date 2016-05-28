@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\CameraScroller.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\MainMenuController.cs" Line="39" Column="38" />
+      <File FileName="Assets\_Scripts\PlayerController.cs" Line="43" Column="4" />
+      <File FileName="Assets\_Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CurrentScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\SpawnerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CameraScroller.cs" Line="20" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
